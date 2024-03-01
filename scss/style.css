@@ -1,20 +1,9 @@
 @media (max-width: 1115px) {
-  .section1 {
-    margin-bottom: 300px;
-  }
   .section1 img {
     width: 300px;
   }
   .section1 button {
-    margin: 110px 0;
-  }
-  .section2 {
-    background-color: green;
-    margin: 100px 0;
-  }
-  .section2 .container2 {
-    flex-wrap: wrap;
-    margin-bottom: 200px;
+    margin: 50px 0;
   }
 }
 * {
